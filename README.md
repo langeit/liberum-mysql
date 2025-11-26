@@ -123,5 +123,5 @@ La aplicación está organizada siguiendo un estilo **MVC en Flask**:
 
 ```bash
 git clone https://github.com/langeit/liberum-mysql
-cd helpdesk
+cd liberum-mysql
 
