@@ -1,4 +1,4 @@
-# HelpDesk (Port a Python/Flask en MVC)
+# Liberum HelpDesk (Port a Python/Flask en MVC)
 
 HelpDesk es un *port/fork* de **Liberum Help Desk**, reescrito desde ASP clásico y bases de datos MSSQL/Access a una arquitectura moderna basada en **Python/Flask** y **MySQL**, con un esquema de datos optimizado y nombres de tablas/campos en español.
 
@@ -124,4 +124,6 @@ La aplicación está organizada siguiendo un estilo **MVC en Flask**:
 ```bash
 git clone https://github.com/langeit/liberum-mysql
 cd liberum-mysql
+
+flask run
 
