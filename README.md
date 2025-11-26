@@ -122,6 +122,6 @@ La aplicación está organizada siguiendo un estilo **MVC en Flask**:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://tu-servidor-o-github/usuario/helpdesk-uta.git
+git clone https://github.com/langeit/liberum-mysql
 cd helpdesk
 
