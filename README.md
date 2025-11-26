@@ -45,7 +45,7 @@ Este proyecto es un **port y fork** de:
 - **Licencia original:** GNU General Public License versión 2 (GPLv2)  
 
 El código original se encontraba organizado como “código spaghetti”, con lógica de presentación, negocio y acceso a datos mezcladas.  
-HelpDesk UTA toma esas ideas funcionales y las reimplementa en una arquitectura moderna, modular y mantenible.
+HelpDesk toma esas ideas funcionales y las reimplementa en una arquitectura moderna, modular y mantenible.
 
 ---
 
